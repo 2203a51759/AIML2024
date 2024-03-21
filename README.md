@@ -16,3 +16,5 @@ Assignment 3-https://github.com/2203a51759/AIML2024/blob/main/Assignment3.ipynb
 Assignment 4-https://github.com/2203a51759/AIML2024/blob/main/Assignment_4.ipynb
 
 Assignment 5-https://github.com/2203a51759/AIML2024/blob/main/Assignment5.ipynb
+
+Assignment-6-https://github.com/2203a51759/AIML2024/blob/main/Assignment6.ipynb
