@@ -27,3 +27,4 @@ Assignment-8- https://github.com/2203a51759/AIML2024/blob/main/Assignment8.ipynb
 assignment-9-https://github.com/2203a51759/AIML2024/blob/main/assignment_9.ipynb
 
 
+assignement-10-https://github.com/2203a51759/AIML2024/blob/main/Assignment10.ipynb.txt
