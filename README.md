@@ -31,3 +31,5 @@ assignement-10-https://github.com/2203a51759/AIML2024/blob/main/Assignment10.ipy
 
 assignment-10-https://github.com/2203a51759/AIML2024/blob/main/Assignment10.ipynb.txt
 
+Groupprojectgroup_3;https://github.com/2203a51759/AIML2024/blob/main/GroupprojectGroup_3.ipynb
+
